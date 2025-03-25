@@ -2,7 +2,7 @@
 
 #### Student at PSG College of Technology 👨‍🎓
 
-- 📚 Pursuing M.Sc Theoretical Computer Science
+- 📚 Pursuing MSc Theoretical Computer Science
 - 🌱 Currently learning Web Development
 - 📌 Interested at Competitve Programming
 
